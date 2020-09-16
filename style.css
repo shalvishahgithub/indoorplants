@@ -46,6 +46,37 @@ h1.s1{
 	font-weight: bold;
 	text-align: justify;
 }
+
+.bw
+{
+	font-size: 9pt;
+	width: 130px !important;
+	height: 32px !important;
+}
+
+.bwbig
+{
+	font-size: 9pt;
+	width: 200px !important;
+	height: 32px !important;
+}
+
+/*@media screen and (max-width: 375px) and (min-width: 641px) and (max-width: 830px) {
+ .bw
+	{
+	font-size: 9pt;
+	width: 130px !important;
+	height: 32px !important;
+	}
+.bwbig
+{
+	font-size: 9pt;
+	width: 200px !important;
+	height: 32px !important;
+}
+}*/
+
+
 /*style for contact page*/
 .card {
   /* Add shadows to create the "card" effect */
@@ -58,7 +89,3 @@ h1.s1{
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
-/* Add some padding inside the card container */
-.container {
-  padding: 2px 16px;
-}
