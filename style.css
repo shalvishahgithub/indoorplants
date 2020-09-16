@@ -23,11 +23,7 @@ h1.s1{
 	text-transform: uppercase;
 }
 
-@media only screen and (min-width: 375px){
-	h1.s1{
-		font-size: 3vw;
-	}
-}
+
 /*for plants page */
 .pimg
 {
@@ -89,3 +85,21 @@ h1.s1{
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
+
+@media only screen and (min-width: 375px){
+	h1.s1{
+		font-size: 3vw;
+	}
+	 .bw
+	{
+	font-size: 9pt;
+	width: 130px !important;
+	height: 32px !important;
+	}
+.bwbig
+{
+	font-size: 9pt;
+	width: 200px !important;
+	height: 32px !important;
+}
+}
