@@ -17,6 +17,9 @@ h1.s1{
 	font-size: 2vw;
 	font-style: italic;
 	font-weight: bold;
+        padding-left: 10px;
+        padding-right:10px:
+
 }
 .btn
 {
@@ -90,7 +93,7 @@ h1.s1{
 
 @media only screen and (min-width: 375px){
 	h1.s1{
-		font-size: 4vw;
+		font-size: 4vw
 	}
 	 .bw
 	{
